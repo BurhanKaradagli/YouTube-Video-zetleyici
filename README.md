@@ -4,7 +4,7 @@ Proje Adı: YouTube Video Özetleyici
 
 Hazırlayan: Burhan Karadağlı 202523010
 
-Tarih: 17.04.2024
+Tarih: 12.05.2024
 
 Ders: Mühendislikte Bilgisayar Uygulamaları 2
 
